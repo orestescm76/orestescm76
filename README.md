@@ -2,10 +2,14 @@
 I'm a computer engineer in Seville (23 years old) and I have some projects. I like programming and videogames, and I enjoy listening to music all day.
 ## 🔭 I’m currently working on...
 ### Cassiopeia 2.0
-A music manager made in C#. It can manage digital albums, CDs, Vinyl records and it can even sync with your Spotify! It's my main project, and it's the most time consuming. [You can check it out here](https://github.com/orestescm76/cassiopeia)
+A music manager made in C#. It can manage digital albums, CDs, Vinyl records and it can even sync with your Spotify! It's my main project, and it's the most time consuming.
+TODO:
+ - Improve program stability
+ - Finish the Player reimplementation
+[You can check it out here](https://github.com/orestescm76/cassiopeia)
 
 ### Prasino
-It's a model viewer with some graphics techniques implemented. I'd like to put more effort in it, but sadly I have bigger fish to fry!
+It's a model viewer with some graphics techniques implemented. I'd like to put more effort in it, but sadly I don't have more time!
 [You can check it out here](https://github.com/orestescm76/par2122)
 
 
