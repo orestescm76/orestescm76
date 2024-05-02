@@ -4,7 +4,7 @@ I'm a computer engineer in Seville (24 years old) and I have some projects. I li
 ### Cassiopeia 3.0
 A music manager made in C#. It can manage digital albums, CDs, Vinyl records and it can even sync with your Spotify! It's my main project, and it's the most time consuming. 
 TODO:
- - Entire rework with MAUI framework.
+ - Entire rework with Avalonia framework.
 [You can check it out here](https://github.com/orestescm76/cassiopeia)
 
 ### Prasino
