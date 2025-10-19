@@ -1,5 +1,5 @@
 # Hi there, I'm Orestes 👋
-I'm a computer engineer in Seville (25 years old) and I have some projects. I like programming and videogames, and I enjoy listening to music all day.
+I'm a computer engineer in Seville (26 years old) and I have some projects. I like programming and videogames, and I enjoy listening to music all day.
 ## 🔭 I’m currently working on...
 ### Advent of Code 2024 in Rust
 I'm doing the daily problems in Rust, so I can learn the language and have something to post.
